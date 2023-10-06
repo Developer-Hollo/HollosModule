@@ -8,6 +8,7 @@ setup(
         'sty',
         'colorama',
         'requests',
+        'datetime'
     ],
     author='Hollo',
     author_email='hollo1234567890e@gmail.com',
